@@ -4,6 +4,6 @@ Codes and examples of discussion sessions for course GRS MA 681 at Boston Univer
 ### Topics covered 
 <b> Sept. 16. </b> Central Limit Theorem (CLT) for iid observations and not iid observations, Delta Method
 
-<b> Sept. 23. </b> Histograms, density estimation using Kernel methods, KS-plots, QQ-plots, Empirical CDF, an example of Bootstrap
+<b> Sept. 23. </b> Histograms, density estimation using Kernel methods, KS-plots, QQ-plots, Empirical CDF, an example of Bootstrap (Temperature data was used this session)
 
 <b> Sept. 29. </b> Maximum Likelihood Estimation (MLE), Method of Moments (MoM), bias and variance of estimators, Mean Squared Errors (MSE), Bias-Variance tradeoff
