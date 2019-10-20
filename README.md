@@ -9,3 +9,5 @@ Codes and examples of discussion sessions for course GRS MA 681 at Boston Univer
 <b> Sept. 29. </b> Maximum Likelihood Estimation (MLE), Method of Moments (MoM), bias and variance of estimators, Mean Squared Errors (MSE), Bias-Variance tradeoff
 
 <b> Oct. 7. </b> Hypothesis Testing (one sided and two sided), Wald Tests with and without Bootstrap, Likelihood Ratio Tests, Fisher Information, p-value, type-1 and type-2 errors, An example of all of these with Poisson data 
+
+<b> Oct. 15. </b> Muti-variate Hypothesis Testing, Multiplicity in Hypothesis Testing, Bonferroni method, Benjamin-Hochberg method, type-1 error and type-2 error
