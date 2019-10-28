@@ -42,26 +42,3 @@ F <- ((RSS0 - RSS1)/(d0-d1))/(RSS1/d1)
 p_value_new <- 1-pf(F, d0-d1, d1)
 print(p_values)
 print(p_value_new)
-
-##### Extended version Linear Models
-n <- 100
-X <- 5*matrix(runif(n), n, 1, byrow=TRUE)
-Y <- 3 + 2*X + 4*X^2 + matrix(rnorm(n, 0, .5), n, 1, byrow=TRUE)
-plot(X, Y, cex=.4)
-
-# Fitting linear model manually
-X_des <- cbind(matrix(rep(1, n), n, 1, byrow=TRUE), X)
-b_hat <- solve(t(X_des) %*% X_des) %*% t(X_des) %*% Y
-Y_hat <- X_des %*% b_hat
-plot(X, Y, cex=.4, ylim=range(-20, 120),)
-par(new=TRUE)
-plot(X, Y_hat, cex=.4, col='red', ylim=range(-20, 120))
-
-# Use extended version
-X_des <- cbind(matrix(rep(1, n), n, 1, byrow=TRUE), X, X^2)
-b_hat <- solve(t(X_des) %*% X_des) %*% t(X_des) %*% Y
-Y_hat <- X_des %*% b_hat
-plot(X, Y, cex=.4, ylim=range(-20, 120), ylab="")
-par(new=TRUE)
-plot(X, Y_hat, cex=.4, col='red', ylim=range(-20, 120))
-
