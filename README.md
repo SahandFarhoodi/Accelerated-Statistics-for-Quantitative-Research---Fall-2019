@@ -11,3 +11,5 @@ Codes and examples of discussion sessions for course GRS MA 681 at Boston Univer
 <b> Oct. 7. </b> Hypothesis Testing (one sided and two sided), Wald Tests with and without Bootstrap, Likelihood Ratio Tests, Fisher Information, p-value, type-1 and type-2 errors, An example of all of these with Poisson data 
 
 <b> Oct. 15. </b> Muti-variate Hypothesis Testing, Multiplicity in Hypothesis Testing, Bonferroni method, Benjamin-Hochberg method, type-1 error and type-2 error
+
+<b> Oct. 21. </b> Linear models, Fisher Information Covariance matrix, Wald-Test and MLRT for linear models, t-student test, F-test 
