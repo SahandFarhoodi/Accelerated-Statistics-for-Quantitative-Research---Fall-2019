@@ -13,3 +13,5 @@ Codes and examples of discussion sessions for course GRS MA 681 at Boston Univer
 <b> Oct. 15. </b> Muti-variate Hypothesis Testing, Multiplicity in Hypothesis Testing, Bonferroni method, Benjamin-Hochberg method, type-1 error and type-2 error
 
 <b> Oct. 21. </b> Linear models, Fisher Information Covariance matrix, Wald-Test and MLRT for linear models, t-student test, F-test 
+
+<b> Oct. 28 </b> Extended linear models, factors and discrete random variables in linear models, Polynomial linear models, AIC, BIC, cross-validation methods, Forward and Backward stepwise linear regression
