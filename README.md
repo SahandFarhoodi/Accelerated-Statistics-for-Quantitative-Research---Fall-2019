@@ -1,8 +1,6 @@
 # Acclerated-Statistics-for-Quantitative-Research---Fall-2019
 Codes and examples of discussion sessions for course GRS MA 681 at Boston University, Fall 2019.
 
-Languages: Matlab and R
-
 ### Topics covered 
 <b> Sept. 16. </b> Central Limit Theorem (CLT) for iid observations and not iid observations, Delta Method
 
