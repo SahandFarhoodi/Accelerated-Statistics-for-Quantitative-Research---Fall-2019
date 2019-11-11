@@ -15,3 +15,7 @@ Codes and examples of discussion sessions for course GRS MA 681 at Boston Univer
 <b> Oct. 21. </b> Linear models, Fisher Information Covariance matrix, Wald-Test and MLRT for linear models, t-student test, F-test 
 
 <b> Oct. 28 </b> Extended linear models, factors and discrete random variables in linear models, Polynomial linear models, AIC, BIC, cross-validation methods, Forward and Backward stepwise linear regression
+
+<b> Nov. 4 </b> Generalized Linear Models (GLM), Logistic regression, extended logistic regression, classifying with linear and quadratic boundaries
+
+<b> Nov. 11 </b> The general outline for GLMs, Gamma GLM, Comparison between Gamma and Normal GLM (constant and non-constant variablity bands), Polynomial regression to approximate any continous functions 
