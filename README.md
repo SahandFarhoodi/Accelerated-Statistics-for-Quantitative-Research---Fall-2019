@@ -19,3 +19,5 @@ Codes and examples of discussion sessions for course GRS MA 681 at Boston Univer
 <b> Nov. 4 </b> Generalized Linear Models (GLM), Logistic regression, extended logistic regression, classifying with linear and quadratic boundaries
 
 <b> Nov. 11 </b> The general outline for GLMs, Gamma GLM, Comparison between Gamma and Normal GLM (constant and non-constant variablity bands), Polynomial regression to approximate any continous functions 
+
+<b> Nov. 18 </b> Time series, AR models, MA models, ARMA models, ARMAX models and their relation to linear regression. Using AIC/BIC, autocorrelation function (acf) and partial autocorrelation function (pacf) in choosing tuning parameters for ARMAX model.
