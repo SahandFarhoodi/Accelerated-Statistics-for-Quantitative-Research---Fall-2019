@@ -23,3 +23,5 @@ Codes and examples of discussion sessions for course GRS MA 681 at Boston Univer
 <b> Nov. 18 </b> Time series, AR models, MA models, ARMA models, ARMAX models and their relation to linear regression. Using AIC/BIC, autocorrelation function (acf) and partial autocorrelation function (pacf) in choosing tuning parameters for ARMAX model.
 
 <b> Nov. 25 </b> Fourier representation of time series, Finding Fourier coefficients, Spectral Analysis, Harmonic regression and its relation with linear regression, Confidence intervals and hypothesis testing for harmonic regresison, Observing that just sine and cosine functions are not enough!
+
+<b> Dec. 2 </b> Advantages/disadvantages of Neural Networks, Logistic Regression, Tree-based methods, k-nearest neighborhood methods, and SVM and implementing them on a well-known classifying problem
