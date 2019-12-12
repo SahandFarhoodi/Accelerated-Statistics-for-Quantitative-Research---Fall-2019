@@ -25,3 +25,5 @@ Codes and examples of discussion sessions for course GRS MA 681 at Boston Univer
 <b> Nov. 25 </b> Fourier representation of time series, Finding Fourier coefficients, Spectral Analysis, Harmonic regression and its relation with linear regression, Confidence intervals and hypothesis testing for harmonic regresison, Observing that just sine and cosine functions are not enough!
 
 <b> Dec. 2 </b> Advantages/disadvantages of Neural Networks, Logistic Regression, Tree-based methods, k-nearest neighborhood methods, and SVM and implementing them on a well-known classifying problem
+
+<b> Dec. 9 </b> Bayesian Approach, an exmaple where the likelihood approach fails and how the Bayesian approach can fix the problem, a quick review of K-means.
